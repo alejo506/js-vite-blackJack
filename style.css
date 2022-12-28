@@ -1,0 +1,43 @@
+html,body{
+  margin: 0px;
+  /* background-color: #08306B; */
+  background-color: #062F63;
+  color:white
+}
+#principal{
+  margin: 0px;
+  /* background-color: #08306B; */
+  background-color: #062F63;
+  color:white
+}
+
+.titulo {
+  /* centrar texto */
+  text-align: center; 
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 25px;
+}
+
+.carta{
+  position: relative;
+  width: 150px;
+  left: 100px;
+  margin-left: -75px;
+}
+
+#computadora-cartas,#jugador-cartas{
+  height: 240px;
+}
+
+
+.resultado{
+   position: relative; 
+  
+  margin-left: 50px; 
+  text-align: left;
+  background-color: #062F63;
+  border: #0062F63B;
+   color: whitesmoke;
+}
